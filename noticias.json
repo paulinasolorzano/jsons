@@ -1,0 +1,51 @@
+{
+    "ciudad": "Morelia",
+    "fecha": "2025-03-03",
+    "noticias": [
+      {
+        "titulo": "Investigación a Silvano Aureoles le corresponde a la Fiscalía, afirma Claudia Sheinbaum",
+        "descripcion": "La jefa de gobierno de la Ciudad de México señaló que las investigaciones relacionadas con el exgobernador de Michoacán son competencia de la Fiscalía General de la República.",
+        "categoria": "Política",
+        "fecha_publicacion": "2025-03-03",
+        "enlace": "https://oem.com.mx/elsoldemorelia/local/investigacion-a-silvano-aureoles",
+        "etiquetas": ["Fiscalía", "Gobierno", "Morelia"],
+        "comentarios": [
+          {
+            "usuario": "CarlosMtz",
+            "comentario": "Esperemos que se llegue a una resolución justa.",
+            "fecha": "2025-03-03"
+          },
+          {
+            "usuario": "AnaLopez",
+            "comentario": "Este tema ya lleva tiempo sin avances.",
+            "fecha": "2025-03-03"
+          }
+        ]
+      },
+      {
+        "titulo": "Usuarios del transporte, afectados por riña entre COMIT y combis en Morelia",
+        "descripcion": "Un enfrentamiento entre transportistas dejó a varios usuarios varados y generó caos vial en distintas partes de la ciudad.",
+        "categoria": "Social",
+        "fecha_publicacion": "2025-03-02",
+        "enlace": "https://oem.com.mx/elsoldemorelia/local/rina-comit-combis-morelia",
+        "etiquetas": ["Transporte", "Riña", "Usuarios"],
+        "comentarios": [
+          {
+            "usuario": "JuanPerez",
+            "comentario": "Siempre los mismos problemas con el transporte público.",
+            "fecha": "2025-03-02"
+          }
+        ]
+      },
+      {
+        "titulo": "Silvano Aureoles: las acusaciones y polémicas que lo persiguen tras su mandato en Michoacán",
+        "descripcion": "El exgobernador enfrenta diversas acusaciones que han generado controversia en el ámbito político estatal.",
+        "categoria": "Política",
+        "fecha_publicacion": "2025-03-01",
+        "enlace": "https://oem.com.mx/elsoldemorelia/local/acusaciones-silvano-aureoles",
+        "etiquetas": ["Política", "Corrupción", "Gobernador"],
+        "comentarios": []
+      }
+    ]
+  }
+  
